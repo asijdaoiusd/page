@@ -1,8 +1,8 @@
 :root {
     --gradient-color-1: #0c0d0d;
     --gradient-color-2: #0c0d0d;
-    --gradient-color-3: #bb7585;
-    --gradient-color-4: #0c0d0d;
+    --gradient-color-3: #c360c7;
+    --gradient-color-4: #309e9e;
   }
   
   html,
@@ -32,6 +32,7 @@
     height: 40px;
     color: white;
     display: flex;
+    opacity: 70%;
     justify-content: center;
     align-items: center;
     border-radius: 10px;
