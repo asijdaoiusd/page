@@ -174,3 +174,11 @@
   color: #fff;
   background-color: #000
 }
+
+
+
+#socials-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
