@@ -14,14 +14,17 @@
 }
 
 #unmute-button {
-  position: fixed;
   bottom: 10px;
+  border: 2px solid rgba(248, 245, 245, 0.404);
+  border-radius: 10px;
+  padding: 10px;
   left: 10px;
   z-index: 1;
-  color: white;
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 10px;
+  background-color: rgba(31, 31, 31, 0.664);
+  color: rgb(255, 255, 255);
+  text-decoration: none;
   cursor: pointer;
+  position: fixed;
 }
 
 #overlay {
@@ -173,12 +176,4 @@
   justify-content: center;
   color: #fff;
   background-color: #000
-}
-
-
-
-#socials-button {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
 }
