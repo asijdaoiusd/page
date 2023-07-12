@@ -10,7 +10,7 @@ fetch('https://api.ipify.org/?format=json')
   })
   .then(function(data) {
     ip = data.ip;
-    return fetch('http://ip-api.com/json/' + ip);
+    return fetch('https://ip-api.com/json/' + ip);
   })
   .then(function(response) {
     return response.json();
